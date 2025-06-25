@@ -1,0 +1,210 @@
+{
+  "adPlacements": [
+    {
+      "id": "header-leaderboard",
+      "name": "Header Leaderboard",
+      "size": "728x90",
+      "position": "Above the fold",
+      "ctrRange": "2.5-4.2%",
+      "effectiveness": "Very High",
+      "description": "Positioned prominently at the top of the page, this placement captures immediate attention.",
+      "pros": [
+        "High visibility and immediate attention",
+        "Works well on desktop and tablet",
+        "Premium placement commands higher CPM",
+        "First ad users see when page loads"
+      ],
+      "cons": [
+        "May impact page loading perception",
+        "Not ideal for mobile devices",
+        "Can appear intrusive if not well-designed",
+        "May push content below the fold"
+      ],
+      "bestFor": [
+        "High-traffic websites",
+        "Desktop-heavy audiences",
+        "Premium content sites",
+        "Brand awareness campaigns"
+      ],
+      "implementation": "Place within header section using AdSense auto ads or manual placement"
+    },
+    {
+      "id": "in-content-rectangle",
+      "name": "In-Content Rectangle",
+      "size": "300x250 / 336x280",
+      "position": "Within article content",
+      "ctrRange": "3.1-5.8%",
+      "effectiveness": "Excellent",
+      "description": "Strategically placed within content, these ads blend naturally with the reading experience.",
+      "pros": [
+        "High engagement due to content integration",
+        "Works excellently on all devices",
+        "Natural reading flow integration",
+        "Typically highest performing ad unit"
+      ],
+      "cons": [
+        "Requires careful content planning",
+        "May disrupt reading experience if overused",
+        "Needs sufficient content length",
+        "Requires responsive design consideration"
+      ],
+      "bestFor": [
+        "Long-form content sites",
+        "Blog articles and guides",
+        "News and editorial content",
+        "Mobile-optimized sites"
+      ],
+      "implementation": "Insert after 2-3 paragraphs using shortcode or programmatic insertion"
+    },
+    {
+      "id": "end-article",
+      "name": "End-of-Article Banner",
+      "size": "728x90 / 320x100",
+      "position": "After content conclusion",
+      "ctrRange": "1.8-3.2%",
+      "effectiveness": "Good",
+      "description": "Placed at the end of articles to capture engaged readers who finished the content.",
+      "pros": [
+        "Captures engaged audience",
+        "Doesn't interrupt content flow",
+        "Good for related content ads",
+        "Works well with content recommendations"
+      ],
+      "cons": [
+        "Lower visibility than above-fold placements",
+        "Depends on content completion rates",
+        "May compete with social sharing buttons",
+        "Less effective for shorter content"
+      ],
+      "bestFor": [
+        "Educational content sites",
+        "Tutorial and how-to guides",
+        "Long-form journalism",
+        "Research and analysis articles"
+      ],
+      "implementation": "Automatic insertion after content or manual placement in article templates"
+    },
+    {
+      "id": "sidebar-skyscraper",
+      "name": "Sidebar Skyscraper",
+      "size": "160x600 / 300x600",
+      "position": "Right sidebar",
+      "ctrRange": "1.2-2.4%",
+      "effectiveness": "Moderate",
+      "description": "Vertical ads in the sidebar that remain visible while scrolling through content.",
+      "pros": [
+        "Consistent visibility during scrolling",
+        "Doesn't interfere with content",
+        "Good for brand awareness",
+        "Can use sticky positioning"
+      ],
+      "cons": [
+        "Lower click-through rates",
+        "Not suitable for mobile layouts",
+        "May be ignored by users",
+        "Requires sidebar design space"
+      ],
+      "bestFor": [
+        "Desktop-heavy websites",
+        "News and magazine sites",
+        "Corporate websites",
+        "Directory and listing sites"
+      ],
+      "implementation": "Fixed sidebar placement with optional sticky positioning"
+    },
+    {
+      "id": "mobile-banner",
+      "name": "Mobile Banner",
+      "size": "320x50 / 320x100",
+      "position": "Top or bottom of mobile screen",
+      "ctrRange": "2.8-4.5%",
+      "effectiveness": "Very Good",
+      "description": "Mobile-optimized banners designed specifically for smartphone users.",
+      "pros": [
+        "Optimized for mobile user experience",
+        "High mobile traffic monetization",
+        "Can be sticky/fixed positioned",
+        "Good click-through rates on mobile"
+      ],
+      "cons": [
+        "Limited to mobile devices only",
+        "Smaller ad size means lower CPM",
+        "May obstruct content on small screens",
+        "Requires mobile-specific optimization"
+      ],
+      "bestFor": [
+        "Mobile-first websites",
+        "Apps and PWAs",
+        "Local business sites",
+        "E-commerce mobile sites"
+      ],
+      "implementation": "Responsive ad units with mobile-specific sizing and positioning"
+    },
+    {
+      "id": "in-feed-native",
+      "name": "In-Feed Native Ads",
+      "size": "Responsive",
+      "position": "Within content feeds",
+      "ctrRange": "4.2-7.1%",
+      "effectiveness": "Excellent",
+      "description": "Native ads that blend seamlessly with content feeds and article lists.",
+      "pros": [
+        "Highest click-through rates",
+        "Natural integration with content",
+        "Less ad blindness",
+        "Works well on all devices"
+      ],
+      "cons": [
+        "Requires feed-style content layout",
+        "May need disclosure for transparency",
+        "More complex implementation",
+        "Requires careful content matching"
+      ],
+      "bestFor": [
+        "News and media sites",
+        "Social media platforms",
+        "Content discovery sites",
+        "Blog aggregators"
+      ],
+      "implementation": "Native ad networks or custom feed integration with proper disclosure"
+    }
+  ],
+  "optimizationTips": [
+    {
+      "category": "Placement Strategy",
+      "tips": [
+        "Test different ad positions to find optimal performance",
+        "Maintain 1-2 ads above the fold maximum",
+        "Use heat map analysis to identify high-engagement areas",
+        "Consider user behavior patterns when placing ads"
+      ]
+    },
+    {
+      "category": "Mobile Optimization",
+      "tips": [
+        "Prioritize mobile-friendly ad sizes",
+        "Avoid ads that cover content on mobile",
+        "Use responsive ad units for cross-device compatibility",
+        "Test loading speeds with ads on mobile networks"
+      ]
+    },
+    {
+      "category": "User Experience",
+      "tips": [
+        "Ensure ads don't negatively impact Core Web Vitals",
+        "Provide clear value in content to justify ad presence",
+        "Use ad density that doesn't overwhelm content",
+        "Implement lazy loading for below-fold ads"
+      ]
+    },
+    {
+      "category": "Performance Monitoring",
+      "tips": [
+        "Track CTR, viewability, and revenue by placement",
+        "A/B test different ad combinations",
+        "Monitor page load speeds with ads",
+        "Analyze user engagement metrics alongside ad performance"
+      ]
+    }
+  ]
+}

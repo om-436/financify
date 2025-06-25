@@ -1,0 +1,144 @@
+{
+  "caseStudies": [
+    {
+      "id": "finance-blog",
+      "title": "Finance Blog: From $200 to $15,000/month",
+      "niche": "Finance & Investing",
+      "timeframe": "18 months",
+      "initialTraffic": 5000,
+      "finalTraffic": 85000,
+      "initialEarnings": 200,
+      "finalEarnings": 15000,
+      "keyStrategies": [
+        "Focused on high-CPC finance keywords",
+        "Created comprehensive loan comparison tools",
+        "Optimized ad placement above the fold",
+        "Built authority through expert guest posts",
+        "Implemented strategic internal linking"
+      ],
+      "adPlacements": [
+        "Header leaderboard (728x90)",
+        "In-content rectangles (300x250)",
+        "End-of-article banner",
+        "Sidebar skyscraper (160x600)"
+      ],
+      "topKeywords": [
+        "personal loan rates",
+        "best credit cards",
+        "mortgage refinance",
+        "investment advisor"
+      ],
+      "lessons": [
+        "Ad placement optimization increased CTR by 340%",
+        "Finance content had 5x higher CPC than general topics",
+        "Mobile optimization was crucial for earnings growth",
+        "Quality content led to natural backlink acquisition"
+      ]
+    },
+    {
+      "id": "insurance-comparison",
+      "title": "Insurance Comparison Site: $50K Monthly Revenue",
+      "niche": "Insurance",
+      "timeframe": "24 months",
+      "initialTraffic": 12000,
+      "finalTraffic": 150000,
+      "initialEarnings": 800,
+      "finalEarnings": 50000,
+      "keyStrategies": [
+        "Built interactive insurance calculators",
+        "Created state-specific insurance guides",
+        "Optimized for local insurance searches",
+        "Developed insurance comparison tools",
+        "Focused on commercial intent keywords"
+      ],
+      "adPlacements": [
+        "Calculator result pages",
+        "State guide sidebars",
+        "Comparison tool headers",
+        "Mobile-optimized banners"
+      ],
+      "topKeywords": [
+        "car insurance quotes",
+        "health insurance plans",
+        "life insurance calculator",
+        "auto insurance comparison"
+      ],
+      "lessons": [
+        "Interactive tools dramatically increased engagement",
+        "Local SEO boosted insurance keyword rankings",
+        "Calculator pages had highest conversion rates",
+        "Mobile traffic represented 70% of total earnings"
+      ]
+    },
+    {
+      "id": "legal-directory",
+      "title": "Legal Directory: Scaling to $25K/month",
+      "niche": "Legal Services",
+      "timeframe": "30 months",
+      "initialTraffic": 8000,
+      "finalTraffic": 120000,
+      "initialEarnings": 400,
+      "finalEarnings": 25000,
+      "keyStrategies": [
+        "Created comprehensive lawyer profiles",
+        "Built city-specific legal resource pages",
+        "Developed legal advice Q&A section",
+        "Optimized for 'lawyer near me' searches",
+        "Implemented user review system"
+      ],
+      "adPlacements": [
+        "Lawyer profile sidebars",
+        "Legal resource headers",
+        "Q&A section banners",
+        "Mobile search results"
+      ],
+      "topKeywords": [
+        "personal injury lawyer",
+        "DUI attorney near me",
+        "divorce lawyer",
+        "criminal defense attorney"
+      ],
+      "lessons": [
+        "Local SEO was the primary growth driver",
+        "User-generated content improved rankings",
+        "Mobile-first design was essential",
+        "Trust signals increased ad click-through rates"
+      ]
+    },
+    {
+      "id": "real-estate-blog",
+      "title": "Real Estate Blog: Consistent $8K Monthly",
+      "niche": "Real Estate",
+      "timeframe": "12 months",
+      "initialTraffic": 15000,
+      "finalTraffic": 65000,
+      "initialEarnings": 600,
+      "finalEarnings": 8000,
+      "keyStrategies": [
+        "Created neighborhood market reports",
+        "Built home value estimation tools",
+        "Focused on first-time buyer content",
+        "Developed mortgage calculator widgets",
+        "Targeted seasonal real estate trends"
+      ],
+      "adPlacements": [
+        "Market report headers",
+        "Calculator result pages",
+        "Buyer guide sidebars",
+        "Newsletter signup areas"
+      ],
+      "topKeywords": [
+        "homes for sale",
+        "real estate market trends",
+        "home buying process",
+        "mortgage rates"
+      ],
+      "lessons": [
+        "Seasonal content planning improved traffic consistency",
+        "Tools and calculators had highest earning potential",
+        "Local market focus built authority",
+        "Email integration enhanced overall monetization"
+      ]
+    }
+  ]
+}

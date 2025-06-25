@@ -1,0 +1,172 @@
+{
+  "highCpcNiches": [
+    {
+      "id": "finance",
+      "name": "Finance & Investing",
+      "avgCpc": 58.40,
+      "competitionLevel": "High",
+      "description": "Financial services, investment platforms, loans, and credit cards offer some of the highest CPC rates.",
+      "keywords": [
+        "personal loan",
+        "auto insurance",
+        "life insurance",
+        "investment advisor",
+        "credit repair",
+        "mortgage refinance",
+        "401k rollover",
+        "debt consolidation"
+      ],
+      "strategies": [
+        "Focus on commercial intent keywords",
+        "Create authoritative financial content",
+        "Build trust through expert credentials",
+        "Target long-tail financial questions"
+      ],
+      "earnings": {
+        "lowTraffic": 2500,
+        "mediumTraffic": 15000,
+        "highTraffic": 75000
+      }
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance",
+      "avgCpc": 54.91,
+      "competitionLevel": "Very High",
+      "description": "Auto, health, life, and business insurance keywords command premium CPC rates.",
+      "keywords": [
+        "car insurance quotes",
+        "health insurance plans",
+        "life insurance calculator",
+        "business insurance",
+        "homeowners insurance",
+        "travel insurance",
+        "disability insurance",
+        "insurance comparison"
+      ],
+      "strategies": [
+        "Create insurance comparison tools",
+        "Target location-specific queries",
+        "Focus on insurance calculators",
+        "Build comparison landing pages"
+      ],
+      "earnings": {
+        "lowTraffic": 2200,
+        "mediumTraffic": 13500,
+        "highTraffic": 68000
+      }
+    },
+    {
+      "id": "legal",
+      "name": "Legal Services",
+      "avgCpc": 47.23,
+      "competitionLevel": "High",
+      "description": "Legal advice, personal injury, and attorney services generate high-value clicks.",
+      "keywords": [
+        "personal injury lawyer",
+        "DUI attorney",
+        "bankruptcy lawyer",
+        "divorce attorney",
+        "criminal defense",
+        "workers compensation",
+        "medical malpractice",
+        "employment lawyer"
+      ],
+      "strategies": [
+        "Target local legal searches",
+        "Create legal resource guides",
+        "Focus on specific practice areas",
+        "Build attorney directory pages"
+      ],
+      "earnings": {
+        "lowTraffic": 1900,
+        "mediumTraffic": 11500,
+        "highTraffic": 58000
+      }
+    },
+    {
+      "id": "realestate",
+      "name": "Real Estate",
+      "avgCpc": 32.14,
+      "competitionLevel": "High",
+      "description": "Property sales, rentals, and real estate services maintain strong CPC rates.",
+      "keywords": [
+        "homes for sale",
+        "real estate agent",
+        "property management",
+        "rental properties",
+        "commercial real estate",
+        "real estate investment",
+        "mortgage broker",
+        "home valuation"
+      ],
+      "strategies": [
+        "Create local market reports",
+        "Build property search tools",
+        "Target neighborhood-specific content",
+        "Focus on buyer/seller guides"
+      ],
+      "earnings": {
+        "lowTraffic": 1300,
+        "mediumTraffic": 8000,
+        "highTraffic": 40000
+      }
+    },
+    {
+      "id": "technology",
+      "name": "Technology & Software",
+      "avgCpc": 28.67,
+      "competitionLevel": "Medium-High",
+      "description": "B2B software, cloud services, and enterprise technology solutions.",
+      "keywords": [
+        "CRM software",
+        "cloud hosting",
+        "cybersecurity solutions",
+        "project management tools",
+        "marketing automation",
+        "data analytics platform",
+        "enterprise software",
+        "SaaS solutions"
+      ],
+      "strategies": [
+        "Create software comparison reviews",
+        "Focus on B2B decision makers",
+        "Build feature comparison tables",
+        "Target solution-specific content"
+      ],
+      "earnings": {
+        "lowTraffic": 1150,
+        "mediumTraffic": 7000,
+        "highTraffic": 35000
+      }
+    },
+    {
+      "id": "health",
+      "name": "Health & Medical",
+      "avgCpc": 26.43,
+      "competitionLevel": "Medium-High",
+      "description": "Healthcare services, medical treatments, and wellness products.",
+      "keywords": [
+        "medical treatment",
+        "health insurance",
+        "weight loss program",
+        "mental health services",
+        "dental care",
+        "vision care",
+        "alternative medicine",
+        "medical equipment"
+      ],
+      "strategies": [
+        "Focus on informational health content",
+        "Create symptom checker tools",
+        "Target treatment comparisons",
+        "Build health resource libraries"
+      ],
+      "earnings": {
+        "lowTraffic": 1060,
+        "mediumTraffic": 6500,
+        "highTraffic": 32500
+      }
+    }
+  ]
+}

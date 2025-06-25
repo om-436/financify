@@ -1,0 +1,247 @@
+{
+  "guides": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started with Google AdSense",
+      "description": "Complete beginner's guide to setting up and optimizing Google AdSense for maximum earnings.",
+      "estimatedTime": "2-3 hours",
+      "difficulty": "Beginner",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Create Quality Content",
+          "description": "Build a website with high-quality, original content that provides value to users.",
+          "details": [
+            "Choose a profitable niche (finance, insurance, legal, etc.)",
+            "Create at least 20-30 pages of original, valuable content",
+            "Ensure content is well-written and grammatically correct",
+            "Add an About page, Privacy Policy, and Terms of Service",
+            "Make sure your site is mobile-friendly and fast-loading"
+          ],
+          "timeRequired": "1-2 weeks",
+          "tips": [
+            "Focus on commercial intent keywords for higher CPC",
+            "Target long-tail keywords with lower competition",
+            "Create content that answers specific user questions"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Meet AdSense Requirements",
+          "description": "Ensure your website meets all Google AdSense eligibility requirements.",
+          "details": [
+            "Have a professional website design and navigation",
+            "Include essential pages (Privacy Policy, Terms, Contact)",
+            "Ensure your content is original and not copied",
+            "Have sufficient content (minimum 20-30 quality pages)",
+            "Make sure your site is fully functional with no broken links"
+          ],
+          "timeRequired": "3-5 days",
+          "tips": [
+            "Use a privacy policy generator for compliance",
+            "Check all links and fix any 404 errors",
+            "Ensure your site loads quickly (under 3 seconds)"
+          ]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Apply for Google AdSense",
+          "description": "Submit your application to Google AdSense and wait for approval.",
+          "details": [
+            "Visit www.google.com/adsense and sign up",
+            "Add your website URL and select your country",
+            "Connect your site using the AdSense code",
+            "Complete tax information and payment details",
+            "Wait for approval (can take 1-14 days)"
+          ],
+          "timeRequired": "1-14 days",
+          "tips": [
+            "Double-check all information is accurate",
+            "Don't click on your own ads during review",
+            "Keep creating quality content while waiting"
+          ]
+        },
+        {
+          "stepNumber": 4,
+          "title": "Optimize Ad Placement",
+          "description": "Strategically place ads for maximum revenue without harming user experience.",
+          "details": [
+            "Use Auto Ads for automatic placement optimization",
+            "Manually place ads in high-performing locations",
+            "Test different ad sizes and formats",
+            "Monitor performance and adjust accordingly",
+            "Ensure ads don't violate placement policies"
+          ],
+          "timeRequired": "Ongoing",
+          "tips": [
+            "Start with Auto Ads, then add manual placements",
+            "Place ads where users naturally look",
+            "Don't overload pages with too many ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optimization-advanced",
+      "title": "Advanced AdSense Optimization",
+      "description": "Advanced strategies to maximize your Google AdSense revenue and improve performance.",
+      "estimatedTime": "4-6 hours",
+      "difficulty": "Advanced",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Analyze Performance Data",
+          "description": "Use AdSense reporting to identify optimization opportunities.",
+          "details": [
+            "Review RPM (Revenue per Mille) by page and ad unit",
+            "Analyze CTR (Click-Through Rate) trends",
+            "Identify top-performing content and ad placements",
+            "Monitor CPC (Cost Per Click) by niche and keyword",
+            "Track earnings by traffic source and device"
+          ],
+          "timeRequired": "2-3 hours",
+          "tips": [
+            "Use custom channels to track specific ad placements",
+            "Set up URL channels to monitor page performance",
+            "Compare mobile vs desktop performance"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Implement A/B Testing",
+          "description": "Test different ad configurations to maximize revenue.",
+          "details": [
+            "Test different ad sizes (300x250 vs 336x280)",
+            "Compare Auto Ads vs manual placement performance",
+            "Test ad colors and styles for better integration",
+            "Experiment with ad density and positioning",
+            "Run tests for sufficient time to get statistical significance"
+          ],
+          "timeRequired": "2-4 weeks",
+          "tips": [
+            "Only test one variable at a time",
+            "Run tests for at least 2 weeks for reliable data",
+            "Document all test results for future reference"
+          ]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Optimize for High-CPC Keywords",
+          "description": "Target and optimize content for keywords that command higher CPC rates.",
+          "details": [
+            "Research high-CPC keywords in your niche",
+            "Create content targeting commercial intent keywords",
+            "Optimize existing content for high-value terms",
+            "Build topic clusters around profitable themes",
+            "Monitor keyword performance and adjust strategy"
+          ],
+          "timeRequired": "Ongoing",
+          "tips": [
+            "Use tools like Google Keyword Planner for CPC data",
+            "Focus on buyer-intent keywords",
+            "Create comparison and review content"
+          ]
+        },
+        {
+          "stepNumber": 4,
+          "title": "Technical Optimization",
+          "description": "Improve technical aspects that affect ad performance.",
+          "details": [
+            "Optimize page loading speed for better ad viewability",
+            "Implement lazy loading for below-fold ads",
+            "Ensure responsive design for all devices",
+            "Use AMP (Accelerated Mobile Pages) for mobile optimization",
+            "Monitor Core Web Vitals and fix performance issues"
+          ],
+          "timeRequired": "1-2 weeks",
+          "tips": [
+            "Use Google PageSpeed Insights for optimization suggestions",
+            "Compress images and minify CSS/JavaScript",
+            "Use a content delivery network (CDN)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scaling-revenue",
+      "title": "Scaling to $10K+ Monthly Revenue",
+      "description": "Advanced strategies used by top publishers to scale their AdSense revenue to $10,000+ per month.",
+      "estimatedTime": "6+ months",
+      "difficulty": "Expert",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Build Authority and Traffic",
+          "description": "Establish your site as an authority in your niche to attract high-quality traffic.",
+          "details": [
+            "Create comprehensive, expert-level content",
+            "Build high-quality backlinks from relevant sites",
+            "Engage in industry communities and forums",
+            "Guest post on authority sites in your niche",
+            "Develop a consistent content publishing schedule"
+          ],
+          "timeRequired": "3-6 months",
+          "tips": [
+            "Focus on E-A-T (Expertise, Authoritativeness, Trustworthiness)",
+            "Create content that other sites want to link to",
+            "Build relationships with other publishers in your niche"
+          ]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Diversify Traffic Sources",
+          "description": "Reduce dependence on search traffic by building multiple traffic channels.",
+          "details": [
+            "Build an email list for direct traffic",
+            "Establish social media presence on relevant platforms",
+            "Create video content for YouTube traffic",
+            "Develop a mobile app or PWA",
+            "Build partnerships with other websites"
+          ],
+          "timeRequired": "2-4 months",
+          "tips": [
+            "Email subscribers are 3x more valuable than search traffic",
+            "Video content can drive significant traffic to your site",
+            "Social media should complement, not replace, SEO efforts"
+          ]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Optimize Revenue Per Visitor",
+          "description": "Maximize the revenue generated from each website visitor.",
+          "details": [
+            "Implement advanced ad placement strategies",
+            "Use multiple ad networks for increased competition",
+            "Create high-value content that attracts premium advertisers",
+            "Optimize for international traffic and higher-paying GEOs",
+            "Implement advanced targeting and personalization"
+          ],
+          "timeRequired": "Ongoing",
+          "tips": [
+            "Test header bidding for increased ad revenue",
+            "Create content that attracts visitors from high-paying countries",
+            "Use heat maps to optimize ad placement"
+          ]
+        },
+        {
+          "stepNumber": 4,
+          "title": "Scale Content Production",
+          "description": "Systematically increase content production while maintaining quality.",
+          "details": [
+            "Develop content creation processes and templates",
+            "Build a team of writers and editors",
+            "Use content management systems for efficient publishing",
+            "Implement SEO tools for keyword research and optimization",
+            "Create content calendars and editorial workflows"
+          ],
+          "timeRequired": "3-6 months",
+          "tips": [
+            "Quality always trumps quantity in content creation",
+            "Invest in good writers and editors",
+            "Use data to guide content strategy decisions"
+          ]
+        }
+      ]
+    }
+  ]
+}
